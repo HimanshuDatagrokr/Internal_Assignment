@@ -18,6 +18,6 @@ The objective of this assignment is to write a Python script that fetches data f
 ### SECTION 2
 Write a python code to create dimension tables from above created fact table,  
 
-  1.dim_batters: contains name , match_number, team, played_against_team ,total_runs_scored  
-  2.Dim_bowlers: name, match_number, team, played_against_team , no_of_bowls, runs_conceeded, extras, wickets, maiden_overs 
-  3.Dim_co_ordinators: umpires, commentors, match location ,match_number, toss 
+  1. dim_batters: contains name , match_number, team, played_against_team ,total_runs_scored  
+  2. Dim_bowlers: name, match_number, team, played_against_team , no_of_bowls, runs_conceeded, extras, wickets, maiden_overs 
+  3. Dim_co_ordinators: umpires, commentors, match location ,match_number, toss 
