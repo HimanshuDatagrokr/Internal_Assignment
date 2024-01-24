@@ -7,7 +7,7 @@ The objective of this assignment is to write a Python script that fetches data f
 
 ### Instructions
 1. Ensure that Python, Pandas, and Psycopg2 are installed in your environment.
-2. Write a Python script (e.g., `fetch_and_store.py`) to fetch data from JSON files and store it in an SQL database.
+2. Write a Python script to fetch data from JSON files and store it in an SQL database.
    - Import the necessary libraries.
    - Read the JSON files using Pandas.
    - Connect to the PostgreSQL database using Psycopg2.
